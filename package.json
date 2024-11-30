@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon app.js",
-    "build":"echo 'salom bratishka'"
+    "build": "echo 'salom bratishka'"
   },
   "keywords": [],
   "author": "",
@@ -17,7 +17,6 @@
     "express": "^4.21.1",
     "git": "^0.1.5",
     "joi": "^17.13.3",
-    "nodemon": "^3.1.7",
     "pg": "^8.13.1",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.37.5",
@@ -25,6 +24,7 @@
     "swagger-ui-express": "^5.0.1"
   },
   "devDependencies": {
-    "gh-pages": "^6.2.0"
+    "gh-pages": "^6.2.0",
+    "nodemon": "^3.1.7"
   }
 }
